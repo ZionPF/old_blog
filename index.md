@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Pengfei Zhang's Blog!
+title: Work, Eat, Play...
 ---
 {% include JB/setup %}
 
-Welcome to my blog! Here I will share things related to coding, tech, food and traveling.
-----------------------------------------------------------------------------------------
+#随心记，随手记
 
-### 欢迎来到我的博客，这里除了coding的记录，还会不定期更新好吃的、好玩的。。。
-
-
-**So please do forgive me if I don't write everything in English...**
+##有好的coding感悟记，有好吃的记，玩爽了偶尔也会记一发
 
 <ul class="posts">
   {% for post in site.posts %}

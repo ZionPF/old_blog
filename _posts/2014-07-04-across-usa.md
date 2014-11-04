@@ -12,7 +12,7 @@ tags : [travel, usa]
 
 *地点：美国北部
 
-*交通方式：火车为主，租车两次，城市内坐公交系统
+*交通方式：城际之间火车，国家公园租车，城市内坐公交系统
 
 *城市：Portland - Seattle - Chicago - Washington DC - Boston - New York - Niagara Falls
 
@@ -25,8 +25,41 @@ tags : [travel, usa]
 
 整体来讲，西部的长线火车设施各方面感觉比东部城市之间的短线要好，而且风光也好看，坐下来印象最深的三个线都是长线：加州连接西雅图的Costal Starlight;  北疆穿行的 Empire Builder; 横贯中部东西，最具盛名的California Zypher。通票只包含coach，也就是坐票，如果你是土豪可以考虑购买升级成Sleeper。。。
 
+简单说一下火车上的感觉好了，如果你想像我一样以通票的形式坐，大概需要能够忍受以下几点：
+
+*晚点的可能性！这一点是第一重要的，任何时候都需要预留出来足够的空间给AmTrak晚点。。。
+*火车上coach车厢没有淋浴
+*西部长线车内没有Wifi
+*车上午餐或晚餐需要订餐车，品种只有有限几种
+*Coach毕竟不是床，虽然已经比较宽敞，也基本可以半躺
+
+
+
+
 ----------------
 
 #Oregon State
 
 ![Oregon1](http://fmn.rrimg.com/fmn065/20140818/1015/original_ZECI_040b00004f0a118c.jpg "Canon Beach")
+
+Cannon Beach 1, 日落不能更美
+
+![Oregon2](http://fmn.rrfmn.com/fmn061/20140818/1015/original_hxS5_03cb00004f3a118c.jpg "Canon Beach")
+
+Cannon Beach 2, 果然三脚架之类的还是必须的。。。
+
+![Oregon3](http://fmn.xnpic.com/fmn056/20140818/1015/original_1w0k_39170001872c125f.jpg "Thor's Well")
+
+Thor's Well, 很有趣的一个景点，其实经典的拍摄是等水回流进洞的时候
+
+![Oregon4](http://fmn.rrimg.com/fmn065/20140818/1015/original_wMwg_6886000027dd1191.jpg "Crater Lake")
+
+Crater Lake NP, 水蓝的不像样子
+
+![Oregon5](http://fmn.rrimg.com/fmn064/20140818/1015/original_qlVO_02cb00004edb118c.jpg "Proxy Fall")
+
+Proxy Fall，刚好赶上日落之前的光线，绿树丛中的彩虹把我惊艳到了。
+
+![Oregon6](http://fmn.rrfmn.com/fmn058/20140818/1015/original_N3Aa_38970001871f125f.jpg "Trillium Lake & Mt Hood")
+
+Trillium Lake，本来打算拍日出的，不过。。。

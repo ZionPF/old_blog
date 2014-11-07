@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work, Eat, Play...
+title: Out of your confort zone...
 ---
 {% include JB/setup %}
 

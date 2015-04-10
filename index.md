@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Out of your confort zone...
+title: Keep Calm and HODOR,HODOR,HODOR!
 ---
 {% include JB/setup %}
 
-#随心记，随手记
-
-##有好的coding感悟记，有好吃的记，玩爽了偶尔也会记一发
 
 <ul class="posts">
   {% for post in site.posts %}
